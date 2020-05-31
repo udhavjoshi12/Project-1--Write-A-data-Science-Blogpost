@@ -65,3 +65,7 @@ The following key findings from the analysis are summarized below:
 ## Acknowledgements
 
 Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
+
+## Blogpost
+
+The link for the Blog is here:https://medium.com/@joshiudhav/seattle-airbnb-data-analysis-329addfc98c
